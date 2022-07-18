@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T15:46:36.737Z" agent="5.0 (Windows)" etag="VjdP3WF9sNJslnLUSn5c" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T19:18:15.494Z" agent="5.0 (Windows)" etag="H_uI6jap4XLoiFq3uC3D" version="20.1.1" type="github">
   <diagram id="dv-ZWWxis_PRo5Uor3_I" name="Page-1">
     <mxGraphModel dx="4168" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,13 +208,10 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGR3uw71bkjKP6_LWyjd-1" value="Auteur" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="585" width="140" height="90" as="geometry" />
+          <mxGeometry x="-30" y="585" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGR3uw71bkjKP6_LWyjd-2" value="Nom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="wGR3uw71bkjKP6_LWyjd-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="imn4gwWMJBnye5NbTFSh-39" value="Prénom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="wGR3uw71bkjKP6_LWyjd-1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="imn4gwWMJBnye5NbTFSh-6" value="1, n" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wGR3uw71bkjKP6_LWyjd-12" target="wGR3uw71bkjKP6_LWyjd-2">
           <mxGeometry relative="1" as="geometry" />
